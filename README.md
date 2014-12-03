@@ -1,7 +1,13 @@
 Guessing-Game
 =============
 
-Cocos2d-x 3.2 Generic Guessing-game + framework to build Guessing-games content on the server  
+Cocos2d-x 3.2 Generic Guessing-game framework to build Guessing-games levels on the server. 
+-----------
+
+Basclly i done it to teach my kids how to read toke the photos and done the letters sounds , form there it evolved to 
+Guessing game framework that is highlly configurble , using server level editor . 
+
+
 
 See the process:  
 
