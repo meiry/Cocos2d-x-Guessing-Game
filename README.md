@@ -1,7 +1,7 @@
-Guessing-Game
+Cocos2d-x 3.2 C++ Guessing-Game framework 
 =============
 
-Cocos2d-x 3.2 Generic Guessing-game framework to build Guessing-games levels on the server. 
+Cocos2d-x 3.2 C++ Generic Guessing-game framework to build Guessing-games levels on the server. 
 -----------
 
 I done it to teach my kids how to read they took the pictures and done the letters sounds they where part of the process of making the games its was fun and they learned something along the way. i hope others will do the same. 
