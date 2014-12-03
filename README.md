@@ -14,7 +14,8 @@ form there it evolved to Guessing game framework that is highlly configurble , u
   Cocos2d-x-Guessing-Game/blob/master/Classes/config/ExpressionsMapDefine.h  is where you paste the result from the GEditor
 
 ## The GEditor 
- * Simple Java servelet app running on tomcat , you can load and run it from Eclipse or compile to war file.
+ * Simple Java servlet app running on Tomcat , you can load and run it from Eclipse or compile to war file.
+ and access it from the browser. 
  located here : Cocos2d-x-Guessing-Game/GEditor
 
 Video link shows The process of building levels and the game:  
