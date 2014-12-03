@@ -12,6 +12,7 @@ form there it evolved to Guessing game framework that is highlly configurble , u
 * the source code is cocos2d-x 3.2 c++ project 
 * the configuration files are in Cocos2d-x-Guessing-Game/Classes/config 
   Cocos2d-x-Guessing-Game/blob/master/Classes/config/ExpressionsMapDefine.h  is where you paste the result from the GEditor
+* tested on ios 7, 8, 8.1 on iphone 5 device . 
 
 ## The GEditor 
  * Simple Java servlet app running on Tomcat , you can load and run it from Eclipse or compile to war file.
