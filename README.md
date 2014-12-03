@@ -17,11 +17,14 @@ form there it evolved to Guessing game framework that is highlly configurble , u
  * Simple Java servelet app running on tomcat , you can load and run it from Eclipse or compile to war file.
  located here : Cocos2d-x-Guessing-Game/GEditor
 
-The process of building levels and the game:  
+Video link shows The process of building levels and the game:  
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/q7ug28teVQc/0.jpg)](https://www.youtube.com/watch?v=q7ug28teVQc)
 
 
-Real examples i done to teach my kids how to read ( its Hebrew and yes the framework supports right to left ) 
+Video link shows Real examples i done to teach my kids how to read ( its Hebrew and yes the framework supports right to left)   
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/VRzrtjdvui4/0.jpg)](https://www.youtube.com/watch?v=VRzrtjdvui4)
 
+
+Have fun (;  
+Meir 
