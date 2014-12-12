@@ -30,4 +30,5 @@ Video link shows Real examples i done to teach my kids how to read ( its Hebrew 
 
 
 Have fun (;  
-Meir 
+Meir   
+meiry242@gmail.com
