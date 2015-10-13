@@ -1,3 +1,5 @@
+Check : http://www.gamedevcraft.com for game tutorials 
+
 Cocos2d-x 3.2 C++ Guessing-Game framework 
 =============
 My code is public domain , other open source code im using has its own licenses so please CHECK !!
